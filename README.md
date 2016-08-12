@@ -1,6 +1,6 @@
 # vscode-latest-docker
 
-A docker image that builds and enabling the latest stable version of VS Code to run in a container.
+A docker image that builds the latest stable version of VS Code so that it can be run within a container.
 
 ## Build
 
