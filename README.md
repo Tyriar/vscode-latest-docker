@@ -5,7 +5,7 @@ A docker image that builds the latest stable version of VS Code so that it can b
 ## Build
 
 ```bash
-docker build -t tyriar/vscode .
+docker build -t vscode .
 ```
 
 ## Run
